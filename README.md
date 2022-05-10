@@ -1,2 +1,2 @@
 # psd_open
-Novo produto
+Espaço destinado a novos produtos da PSD ainda em planejamento.
